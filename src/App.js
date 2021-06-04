@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://cashapp-transaction-tracker.herokuapp.com/src/index.php"
           target="_blank"
           rel="noopener noreferrer"
         >
