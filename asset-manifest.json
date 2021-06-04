@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bryangiaportfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bryangiaportfolio/static/js/main.96f63843.chunk.js",
+    "main.js.map": "/bryangiaportfolio/static/js/main.96f63843.chunk.js.map",
+    "runtime-main.js": "/bryangiaportfolio/static/js/runtime-main.576d442a.js",
+    "runtime-main.js.map": "/bryangiaportfolio/static/js/runtime-main.576d442a.js.map",
+    "static/js/2.c327a5f8.chunk.js": "/bryangiaportfolio/static/js/2.c327a5f8.chunk.js",
+    "static/js/2.c327a5f8.chunk.js.map": "/bryangiaportfolio/static/js/2.c327a5f8.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/bryangiaportfolio/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/bryangiaportfolio/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/bryangiaportfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bryangiaportfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c327a5f8.chunk.js.LICENSE.txt": "/bryangiaportfolio/static/js/2.c327a5f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bryangiaportfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.576d442a.js",
+    "static/js/2.c327a5f8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.96f63843.chunk.js"
+  ]
+}
